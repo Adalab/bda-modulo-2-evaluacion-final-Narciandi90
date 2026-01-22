@@ -7,7 +7,7 @@ Este repositorio contiene la resolución de los ejercicios de evaluación del m�
 
 En el contenido que aquí se guarda, encontarás un archivo SQL en el que se desarrollan 24 consultas sobre la base de datos Sakila. Desde queries más básicas como conocer el título de las películas que alberga esta base de datos hasta otras en las que se incluyen subconsultas correlacionadas.
 
-**¿Qué objetivos perseguimos con esta evaluación?**🎯
+**¿Qué objetivos perseguimos con esta evaluación?** 🎯
 
 Aplicar y consolidar nuestros conocimientos sobre:
 
@@ -24,6 +24,7 @@ Aplicar y consolidar nuestros conocimientos sobre:
 
 
 
-##AUTORÍA
+##AUTORÍA 
+
 **Nombre:** Ana María Castro Narciandi
 **Bootcamp:** Promoción 64 · Data Analytics & IA · Adalab
