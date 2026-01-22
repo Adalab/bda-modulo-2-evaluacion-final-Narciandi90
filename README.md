@@ -5,7 +5,7 @@ disfrutes de la "magia"✨ de las bases de datos con el trabajo aquí desempeña
 
 Este repositorio contiene la resolución de los ejercicios de evaluación del módulo 2 del Bootcamp de Data Analytics & IA.En este segundo módulo nos sumergimos por completo en el conocimiento y manejo de bases de datos en el entorno MySQL Workbench.
 
-En el contenido que aquí se guarda, encontarás un archivo SQL en el que se desarrollan 24 consultas sobre la base de datos Sakila. Desde queries más básicas como conocer el título de las películas que alberga esta base de datos hasta otras en las que se incluyen subconsultas correlacionadas.
+En el contenido que aquí se guarda, encontrarás un archivo SQL en el que se desarrollan 24 consultas sobre la base de datos Sakila. Desde queries más básicas como conocer el título de las películas que alberga esta base de datos hasta otras en las que se incluyen subconsultas correlacionadas.
 
 **¿Qué objetivos perseguimos con esta evaluación?**🎯
 
